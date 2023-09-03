@@ -299,4 +299,20 @@ section{
     .checkbox-itens input{
         width: 13px;
     }
+
+    /*Footer*/
+    footer .linha1{
+        flex-direction: column;      
+    }
+
+    footer ul li {
+        font-size: 20px;
+    }
+
+    footer .endereco{
+        width: 90%;
+        font-size: 15px;
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
 }
